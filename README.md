@@ -2,17 +2,16 @@
 
 ### AI Full-Stack Developer
 
-- 🔭 I'm currently working on **a monitor stystem**
+- 🔭 I'm currently working on **YOLO model training and video analysis projects**
+- 🌱 I'm currently learning **SLAM (Visual/Laser), Control Theory, Machine Learning (with Dive into Deep Learning), and Python/C++** — focusing on the integration of embodied AI, robot perception and positioning
 
-- 🌱 I'm currently learning **Vue,Java or Python, exactly I am learning how to build a beautiful website.**
+- 🤝 I'm looking for help with **Embodied AI Development, SLAM system practice, control theory application (e.g., Kalman Filter, LQR) and robot perception integration** — I’m passionate about robots!
 
-- 🤝 I'm looking for help with **all the things about Embodied AI Development, I like Robot!**
-
-- 💬 Ask me about **Vue,Java or Python**
+- 💬 Ask me about **SLAM basics, Control Theory (entry-level), Python/C++ for robot development, and introductory Machine Learning**
 
 - 📫 How to reach me **answerfour@outlook.com**
 
-- ⚡ Fun fact **Embodied AI development, like SLAM**
+- ⚡ Fun fact **I’m obsessed with Embodied AI, especially SLAM and robot control — turning theoretical knowledge into practical robot perception and positioning systems is my greatest interest!**
 
 - 📝 I regularly write articles on **[https://answerfour.github.io/](https://answerfour.github.io/)**
 
