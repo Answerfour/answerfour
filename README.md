@@ -1,9 +1,9 @@
 # Hi 👋, I'm zyc
 
-### AI Full-Stack Developer
+### Robotics Full-Stack Developer
 
 - 🔭 I'm currently working on **YOLO model training and video analysis projects**
-- 🌱 I'm currently learning **SLAM (Visual/Laser), Control Theory, Machine Learning (with Dive into Deep Learning), and Python/C++** — focusing on the integration of embodied AI, robot perception and positioning
+- 🌱 I'm currently learning **embedded AI and autonomous robotics**, covering robot hardware embedding, intelligent perception and SLAM navigation.
 
 - 🤝 I'm looking for help with **Embodied AI Development, SLAM system practice, control theory application (e.g., Kalman Filter, LQR) and robot perception integration** — I’m passionate about robots!
 
